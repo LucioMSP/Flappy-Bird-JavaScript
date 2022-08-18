@@ -13,7 +13,7 @@ function cargar_cubil_scout() {
   loadSprite("jugador", "player.png")
   loadSprite("background", "background.png")
   loadSprite("gameover_bg", "gameOver.jpg")
-  loadSprite("obstaculo", "pine.png")
+  loadSprite("obstaculo", "pipe.png")
 }
 
 function preparar_jugador(puntaje) {
