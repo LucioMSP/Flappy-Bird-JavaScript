@@ -10,9 +10,9 @@ function cargar_pajaros_y_tuberias() {
 
 function cargar_cubil_scout() {
   loadRoot("./sprites/")
-  loadSprite("jugador", "grupo6.png")
-  loadSprite("background", "trees.jpg")
-  loadSprite("gameover_bg", "bandera.jpg")
+  loadSprite("jugador", "player.png")
+  loadSprite("background", "background.png")
+  loadSprite("gameover_bg", "gameOver.jpg")
   loadSprite("obstaculo", "pine.png")
 }
 
