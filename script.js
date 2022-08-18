@@ -9,8 +9,8 @@ const PIPE_SPEED = 90
 
 loadRoot("/sprites/")
 loadSprite("bird", "bird.png")
-loadSprite("background", "ocean.jpg")
-loadSprite("gameover_bg", "bird_bg.jpg")
+loadSprite("background", "background.png")
+loadSprite("gameover_bg", "gameOver.jpg")
 loadSprite("pipe", "pipe.png")
 
 scene("main", () => {
