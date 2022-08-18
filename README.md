@@ -12,3 +12,6 @@ Usando la barra espaciadora para saltar, navega con el pájaro azul a través de
 
 ## DEMO
 ![Flappy Bird demo](flappy-bird.gif)
+
+## Diviertete jugando
+Si quieres probar este mini juego, navega a [https://luciomsp.github.io/Flappy-Bird-JavaScript/](https://luciomsp.github.io/Flappy-Bird-JavaScript/)
